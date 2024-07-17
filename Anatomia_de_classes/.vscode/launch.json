@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "edu.pedro.Conta_Banco.ContaTerminal",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
             "name": "AboutMim",
             "request": "launch",
             "mainClass": "edu.pedro.Terminal_e_argumentos.AboutMim",
