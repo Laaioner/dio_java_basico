@@ -1,0 +1,74 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMim",
+            "request": "launch",
+            "mainClass": "edu.pedro.Terminal_e_argumentos.AboutMim",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.pedro.Anatomia_de_classes.MinhaClasse",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.pedro.Metodos.Usuario",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "operadores",
+            "request": "launch",
+            "mainClass": "edu.pedro.Operadores.operadores",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "edu.pedro.Terminal_e_argumentos.MinhaClasse",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "edu.pedro.Terminal_e_argumentos.SobreMim",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "args": [
+                "Pedro",
+                "Piovesan",
+                "21",
+                "1,70"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "variaveis",
+            "request": "launch",
+            "mainClass": "edu.pedro.Tipos_de_variaveis.variaveis",
+            "projectName": "Anatomia_de_classes_583ee443"
+        }
+    ]
+}
