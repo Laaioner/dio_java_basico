@@ -10,7 +10,7 @@ public class SobreMim {
 
         System.out.println("Olá me chamo " + nome + " " + sobrenome);
         System.out.println("Tenho "+ idade + " anos ");
-        System.out.println("Minha altura é " + altura + "cm ");
+        System.out.println("Minha altura é " + altura + " em cm ");
 
         //para executar no terminal é preciso usar esse comando java edu.pedro.Terminal_e_argumentos.SobreMim Pedro Piovesan 21 170 ajustar o pathing conforme a necessidade
     }
