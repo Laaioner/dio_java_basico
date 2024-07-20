@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "edu.pedro.Estruturas_Condicionais.SwitchCase",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "CondicaoTernaria",
+            "request": "launch",
+            "mainClass": "edu.pedro.Estruturas_Condicionais.CondicaoTernaria",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "CondicionaisEncadeada",
+            "request": "launch",
+            "mainClass": "edu.pedro.Estruturas_Condicionais.CondicionaisEncadeada",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "CondicionaisCompostas",
+            "request": "launch",
+            "mainClass": "edu.pedro.Estruturas_Condicionais.CondicionaisCompostas",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimples",
+            "request": "launch",
+            "mainClass": "edu.pedro.Estruturas_Condicionais.CondicionalSimples",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.pedro.Estruturas_Condicionais.CaixaEletronico",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
             "name": "ContaTerminal",
             "request": "launch",
             "mainClass": "edu.pedro.Conta_Banco.ContaTerminal",
