@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "edu.pedro.EstruturaDeRepeticao.DoWhile",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "edu.pedro.EstruturaDeRepeticao.While",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "edu.pedro.EstruturaDeRepeticao.BreakContinue",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "ForEmArrays",
+            "request": "launch",
+            "mainClass": "edu.pedro.EstruturaDeRepeticao.ForEmArrays",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "edu.pedro.EstruturaDeRepeticao.For",
+            "projectName": "Anatomia_de_classes_583ee443"
+        },
+        {
+            "type": "java",
             "name": "SwitchCase",
             "request": "launch",
             "mainClass": "edu.pedro.Estruturas_Condicionais.SwitchCase",
