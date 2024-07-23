@@ -8,7 +8,7 @@ public class DoWhile {
 		
 		do {
 			//excutando repetidas vezes até alguém atender
-			System.out.println("Telefone tocando");
+			System.out.println("Telefone tocando ");
 		
 		}while(tocando());
 		
