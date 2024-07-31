@@ -45,7 +45,7 @@ public class operadores {
         
         System.out.println("Numero 1 é diferente ao numero 2 " + simNao);
 
-        //operadores lógicos, exemplos && = e, || = ou e
+        //operadores lógicos, exemplos && = e, || = ou e fazer mais exercicios
     }
 
     
